@@ -1,0 +1,9 @@
+*.cmd
+*.net
+*.sch~
+*.pcb.bak*
+*.pcb.orig
+*.pcb-
+*.new.pcb
+*.gbr
+packages
